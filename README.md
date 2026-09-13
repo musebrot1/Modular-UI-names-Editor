@@ -1,6 +1,6 @@
 # Modular UI names Editor
 
-A tool to create and edit .txt files used by "Modular UI names" patch<br>
+A Switch Homebrew App to create and edit .txt files used by "Modular UI names" patch<br>
 <br>
 This is still WIP, use on your own risk!<br>
 <br>
