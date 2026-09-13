@@ -8,9 +8,11 @@ This is still WIP, use on your own risk!<br>
 Install:<br>
 Copy ModularUINamesEditor.nro to SD:/switch/Modular UI names Editor<br>
 
+
 How to use:<br>
 Select an entry, enter your name, press (+) to save the .txt file!<br>
 <br>
+
 Use with Controller or Touchscreen.<br>
 <br>
 
